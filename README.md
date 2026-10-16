@@ -23,7 +23,7 @@ Luci is invite-only for now. You'll need the code from your invitation.
 2. Drag **Luci** to **Applications**, open it, and enter your invite code.
 3. Allow the permissions it asks for.
 
-Requires macOS 14 or later.
+Requires macOS 13 Ventura or later. Works on Intel and Apple silicon Macs.
 
 ## Update
 
