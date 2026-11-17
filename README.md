@@ -24,18 +24,10 @@ Luci is invite-only for now. You need the invite code from your invitation.
 2. **Enter your invite code.** Then read what Luci collects and accept it, and allow the access it asks for.
    Use the **same code** on every computer you add: the code is your account, so a second computer or a reinstall
    joins the same Luci. Please don't share it.
-3. **Talk with Luci in Claude or ChatGPT.** Add Luci as a custom connector, with this address:
-
-   ```
-   https://luci-hub.fly.dev/patterns/mcp
-   ```
-
-   - **Claude** (claude.ai or the Claude app): Settings → Connectors → Add custom connector.
-   - **ChatGPT** (on the web, Plus or Pro): Settings → Apps & Connectors → Advanced settings → turn on
-     Developer mode, then Create, with OAuth sign-in.
-
-   When it asks you to sign in, enter the same invite code. Then write **@luci** in a chat.
-   On a Mac with Claude Code, Luci also connects to Claude Code by itself.
+3. **Talk with Luci in Claude or ChatGPT.** Follow the steps at
+   [luci-hub.fly.dev/connect](https://luci-hub.fly.dev/connect), also in Luci's menu as **Connect Claude or
+   ChatGPT…**. You add Luci as a connector once and sign in with the same invite code; then write **@luci** in a
+   chat. On a Mac with Claude Code, Luci also connects to Claude Code by itself.
 4. **Optional, iPhone:** if your invitation has a TestFlight link, install Luci Sensor and scan the QR code Luci shows.
 
 Luci needs a few days of your days before it has much to say.
