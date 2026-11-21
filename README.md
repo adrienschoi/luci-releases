@@ -3,8 +3,9 @@
 **Luci learns how you work and live from your days, and you talk it through with Claude or ChatGPT.**
 
 Luci sits quietly in your menu bar (Mac) or system tray (Windows). Over the days it learns your patterns: what you
-work on, when you focus best, what you enjoy, what restores you. You ask it things in Claude or ChatGPT: where you
-left off, what it has noticed about your days, how you work best.
+work on, when you focus best, what you enjoy, what restores you. On a Mac, Luci's window shows a few suggestions for
+your day, the skills it offers from your habits (it always asks before a run), your patterns and your days. Anywhere,
+you can ask it things in Claude or ChatGPT: where you left off, what it has noticed about your days, how you work best.
 
 Luci is invite-only for now. You need the invite code from your invitation.
 
